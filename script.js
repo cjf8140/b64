@@ -4,6 +4,7 @@ function go() {
   const createA = document.createElement("a");
   const createAText = document.createTextNode(base);
   createA.setAttribute("href", base);
+  createA.setAttribute("target", "_blank");
   createA.appendChild(createAText);
   const br = document.createElement("br");
   createA.appendChild(br);
