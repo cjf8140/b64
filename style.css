@@ -1,0 +1,45 @@
+body {
+  background-color: #f0f0f3;
+  font-size: 20px;
+}
+
+#con {
+  position: absolute;
+  top: 13px;
+  left: 10px;
+}
+input {
+  width: 100vw;
+  height: 45px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  border-bottom-width: 1px solid;
+  border-bottom-color: #bbbbbb;
+  background-color: #dddddd;
+  font-size: 30px;
+  transition: all 0.5s;
+}
+input:focus {
+  width: 100vw;
+  height: 40px;
+  background-color: rgba(255,255,255,0);
+  border-bottom-color: #000000;
+  outline: none;
+  font-size: 30px;
+  transition: all 0.5s;
+}
+#oput {
+  color: skyblue;
+  position: absolute;
+  top: 70px;
+  left: 12px;
+}
+
+a {
+  text-decoration: none; 
+  
+}
+a:visited {
+  color: #4aa8d8;
+  }
