@@ -5,10 +5,10 @@ body {
 
 #con {
   position: absolute;
-  top: 30vh;
-  left: 5vw;
 }
 input {
+  top: 30vh;
+  left: 5vw;
   width: 90vw;
   height: 45px;
   border-left-width: 0px;
