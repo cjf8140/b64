@@ -31,7 +31,7 @@ input:focus {
 #oput {
   color: skyblue;
   position: absolute;
-  top: calc(50vh + 50px);
+  top: calc(30vh + 50px);
   left: 5vh;
 }
 
