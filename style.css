@@ -32,7 +32,7 @@ input:focus {
   color: skyblue;
   position: absolute;
   top: calc(50vh + 50px);
-  left: 12px;
+  left: 5vh;
 }
 
 a {
