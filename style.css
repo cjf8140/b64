@@ -5,11 +5,11 @@ body {
 
 #con {
   position: absolute;
-  top: 13px;
-  left: 10px;
+  top: 30vh;
+  left: 5vw;
 }
 input {
-  width: 100vw;
+  width: 90vw;
   height: 45px;
   border-left-width: 0px;
   border-right-width: 0px;
